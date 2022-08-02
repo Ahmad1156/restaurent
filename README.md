@@ -1,2 +1,2 @@
 # restaurent
-Restaurent Template getting data from done API posted on heroku.
+Restaurent Template getting data from my done API posted on heroku.
